@@ -13,6 +13,17 @@
 		734C6F7C242654BF003F9F4C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 734C6F7A242654BF003F9F4C /* Main.storyboard */; };
 		734C6F7E242654C0003F9F4C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 734C6F7D242654C0003F9F4C /* Assets.xcassets */; };
 		734C6F81242654C0003F9F4C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 734C6F7F242654C0003F9F4C /* LaunchScreen.storyboard */; };
+		734C6F8924265788003F9F4C /* 周興哲-怎麼了.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 734C6F8824265788003F9F4C /* 周興哲-怎麼了.mp4 */; };
+		734C6F8B242663BC003F9F4C /* album.swift in Sources */ = {isa = PBXBuildFile; fileRef = 734C6F8A242663BC003F9F4C /* album.swift */; };
+		73D70C90242672C60034FF6C /* 周興哲-This is love.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 73D70C88242672C00034FF6C /* 周興哲-This is love.mp4 */; };
+		73D70C91242672C60034FF6C /* 周興哲-Old Days.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 73D70C89242672C00034FF6C /* 周興哲-Old Days.mp4 */; };
+		73D70C92242672C60034FF6C /* 周興哲-如果雨之後.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 73D70C8A242672C10034FF6C /* 周興哲-如果雨之後.mp4 */; };
+		73D70C93242672C60034FF6C /* 周興哲-你好不好.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 73D70C8B242672C20034FF6C /* 周興哲-你好不好.mp4 */; };
+		73D70C94242672C60034FF6C /* 周興哲-以後別做朋友.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 73D70C8C242672C30034FF6C /* 周興哲-以後別做朋友.mp4 */; };
+		73D70C95242672C60034FF6C /* 周興哲-至少我還記得.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 73D70C8D242672C40034FF6C /* 周興哲-至少我還記得.mp4 */; };
+		73D70C96242672C60034FF6C /* 周興哲-終於了解自由.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 73D70C8E242672C50034FF6C /* 周興哲-終於了解自由.mp4 */; };
+		73D70C97242672C60034FF6C /* 周興哲-Nobody But Me.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 73D70C8F242672C60034FF6C /* 周興哲-Nobody But Me.mp4 */; };
+		73D70C99242674140034FF6C /* 周興哲-小時候的我們.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 73D70C98242674140034FF6C /* 周興哲-小時候的我們.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +35,17 @@
 		734C6F7D242654C0003F9F4C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		734C6F80242654C0003F9F4C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		734C6F82242654C0003F9F4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		734C6F8824265788003F9F4C /* 周興哲-怎麼了.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "周興哲-怎麼了.mp4"; sourceTree = "<group>"; };
+		734C6F8A242663BC003F9F4C /* album.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = album.swift; sourceTree = "<group>"; };
+		73D70C88242672C00034FF6C /* 周興哲-This is love.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "周興哲-This is love.mp4"; sourceTree = "<group>"; };
+		73D70C89242672C00034FF6C /* 周興哲-Old Days.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "周興哲-Old Days.mp4"; sourceTree = "<group>"; };
+		73D70C8A242672C10034FF6C /* 周興哲-如果雨之後.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "周興哲-如果雨之後.mp4"; sourceTree = "<group>"; };
+		73D70C8B242672C20034FF6C /* 周興哲-你好不好.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "周興哲-你好不好.mp4"; sourceTree = "<group>"; };
+		73D70C8C242672C30034FF6C /* 周興哲-以後別做朋友.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "周興哲-以後別做朋友.mp4"; sourceTree = "<group>"; };
+		73D70C8D242672C40034FF6C /* 周興哲-至少我還記得.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "周興哲-至少我還記得.mp4"; sourceTree = "<group>"; };
+		73D70C8E242672C50034FF6C /* 周興哲-終於了解自由.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "周興哲-終於了解自由.mp4"; sourceTree = "<group>"; };
+		73D70C8F242672C60034FF6C /* 周興哲-Nobody But Me.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "周興哲-Nobody But Me.mp4"; sourceTree = "<group>"; };
+		73D70C98242674140034FF6C /* 周興哲-小時候的我們.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "周興哲-小時候的我們.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +81,21 @@
 				734C6F74242654BF003F9F4C /* AppDelegate.swift */,
 				734C6F76242654BF003F9F4C /* SceneDelegate.swift */,
 				734C6F78242654BF003F9F4C /* ViewController.swift */,
+				734C6F8A242663BC003F9F4C /* album.swift */,
 				734C6F7A242654BF003F9F4C /* Main.storyboard */,
 				734C6F7D242654C0003F9F4C /* Assets.xcassets */,
 				734C6F7F242654C0003F9F4C /* LaunchScreen.storyboard */,
 				734C6F82242654C0003F9F4C /* Info.plist */,
+				734C6F8824265788003F9F4C /* 周興哲-怎麼了.mp4 */,
+				73D70C8C242672C30034FF6C /* 周興哲-以後別做朋友.mp4 */,
+				73D70C8A242672C10034FF6C /* 周興哲-如果雨之後.mp4 */,
+				73D70C8D242672C40034FF6C /* 周興哲-至少我還記得.mp4 */,
+				73D70C8B242672C20034FF6C /* 周興哲-你好不好.mp4 */,
+				73D70C98242674140034FF6C /* 周興哲-小時候的我們.mp4 */,
+				73D70C8E242672C50034FF6C /* 周興哲-終於了解自由.mp4 */,
+				73D70C8F242672C60034FF6C /* 周興哲-Nobody But Me.mp4 */,
+				73D70C89242672C00034FF6C /* 周興哲-Old Days.mp4 */,
+				73D70C88242672C00034FF6C /* 周興哲-This is love.mp4 */,
 			);
 			path = musicPlayer;
 			sourceTree = "<group>";
@@ -126,6 +159,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				734C6F81242654C0003F9F4C /* LaunchScreen.storyboard in Resources */,
+				73D70C93242672C60034FF6C /* 周興哲-你好不好.mp4 in Resources */,
+				73D70C95242672C60034FF6C /* 周興哲-至少我還記得.mp4 in Resources */,
+				73D70C97242672C60034FF6C /* 周興哲-Nobody But Me.mp4 in Resources */,
+				73D70C96242672C60034FF6C /* 周興哲-終於了解自由.mp4 in Resources */,
+				734C6F8924265788003F9F4C /* 周興哲-怎麼了.mp4 in Resources */,
+				73D70C99242674140034FF6C /* 周興哲-小時候的我們.mp4 in Resources */,
+				73D70C94242672C60034FF6C /* 周興哲-以後別做朋友.mp4 in Resources */,
+				73D70C91242672C60034FF6C /* 周興哲-Old Days.mp4 in Resources */,
+				73D70C90242672C60034FF6C /* 周興哲-This is love.mp4 in Resources */,
+				73D70C92242672C60034FF6C /* 周興哲-如果雨之後.mp4 in Resources */,
 				734C6F7E242654C0003F9F4C /* Assets.xcassets in Resources */,
 				734C6F7C242654BF003F9F4C /* Main.storyboard in Resources */,
 			);
@@ -141,6 +184,7 @@
 				734C6F79242654BF003F9F4C /* ViewController.swift in Sources */,
 				734C6F75242654BF003F9F4C /* AppDelegate.swift in Sources */,
 				734C6F77242654BF003F9F4C /* SceneDelegate.swift in Sources */,
+				734C6F8B242663BC003F9F4C /* album.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,6 +331,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PN6ASWBDAN;
 				INFOPLIST_FILE = musicPlayer/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -305,6 +350,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PN6ASWBDAN;
 				INFOPLIST_FILE = musicPlayer/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
